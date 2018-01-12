@@ -9,10 +9,17 @@ tags:
 * [github setting-up-an-apex-domain](https://help.github.com/articles/setting-up-an-apex-domain/)
 * [Configuring a Godaddy domain name with github pages](http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html)
 
-进入github pages项目，点击settings //相当于项目中添加CNAME文件：master分支
+### Github添加域名记录
 
-`Custom domain添加lxshen.com,Save`.
+~~进入github pages项目，点击settings //相当于项目中添加CNAME文件：master分支
+`Custom domain添加lxshen.com`,Save~~.
 
+```
+以上方法，使用hexo部署博客时有问题，CNAME会被覆盖掉。
+解决办法：CNAME添加到source：解决在Github网页添加Custom domain，hexo d -g再次发布时，覆盖CNAME的问
+```
+
+### Godday域名解析
 登录godday个人账户[dawei shen](https://sg.godaddy.com/zh?tmskey=1dom_23&isc=gennbacn01&countrview=1&currencytype=CNY&cvosrc=ppc.baidu&mkwid=1RBRUzeG9_pcrid_12210477891_pdv_c)
 
 进入`我的域名－DNS管理`，查看记录列表，
