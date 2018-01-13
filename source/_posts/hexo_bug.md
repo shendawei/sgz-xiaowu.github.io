@@ -1,5 +1,10 @@
 title: Hexo bug
 date: 2018-01-12 20:24
+categories:
+- Hexo
+tags:
+- hexo
+- bug
 ---
 bug模版
 
