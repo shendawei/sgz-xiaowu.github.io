@@ -9,6 +9,8 @@ tags:
 * [github setting-up-an-apex-domain](https://help.github.com/articles/setting-up-an-apex-domain/)
 * [Configuring a Godaddy domain name with github pages](http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html)
 
+<!--more-->
+
 ### Github添加域名记录
 
 ~~进入github pages项目，点击settings //相当于项目中添加CNAME文件：master分支

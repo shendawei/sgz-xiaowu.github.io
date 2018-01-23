@@ -13,7 +13,7 @@ date: 2018-01-08 16:28:30
 * [测试Node.js 和npm](http://blog.csdn.net/u011619283/article/details/52368759)
 * [Hexo Docs](https://hexo.io/zh-cn/docs/index.html)
 
-
+<!--more-->
 ## 安装Hexo
 
 1.准备
